@@ -111,3 +111,8 @@ Describe:
 - where the pipeline might fail
 - and how I might improve it if I were going to pursue this project further.  
 
+References
+[Self-Driving Car Project Q&A | Vehicle Tracking](https://www.youtube.com/watch?v=P2zwrTM8ueA) 
+[Reference implementation (Matt Zimmer)](https://github.com/matthewzimmer/CarND-Vehicle-Detection-P5)
+[GTI Vehicle Image Database](http://www.gti.ssr.upm.es/data/Vehicle_database.html)
+[KITTI Project](http://www.cvlibs.net/datasets/kitti/)
